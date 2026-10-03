@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ApparelBase">
+    <defName>OMW_BlahajPlushApparel</defName>
+    <label>Blåhaj plush</label>
+    <description>A soft shark plush that offers comfort and helps its wearer learn.</description>
+    <graphicData>
+      <texPath>Things/Item/OMW_Blahaj_Plush</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <uiIconScale>1.5</uiIconScale>
+    <techLevel>Industrial</techLevel>
+    <tradeability>All</tradeability>
+    <costStuffCount>30</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+      <li>Leathery</li>
+    </stuffCategories>
+    <statBases>
+      <WorkToMake>3200</WorkToMake>
+      <Mass>0.2</Mass>
+      <Beauty>1</Beauty>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <equippedStatOffsets>
+      <LearningRateFactor>0.10</LearningRateFactor>
+      <Comfort>0.05</Comfort>
+    </equippedStatOffsets>
+    <apparel>
+      <wornGraphicPath></wornGraphicPath>
+      <layers>
+        <li>Belt</li>
+      </layers>
+      <bodyPartGroups>
+        <li>Torso</li>
+      </bodyPartGroups>
+      <tags>
+        <li>IndustrialBasic</li>
+      </tags>
+    </apparel>
+    <recipeMaker>
+      <researchPrerequisite>ComplexClothing</researchPrerequisite>
+      <recipeUsers Inherit="False">
+        <li>HandTailoringBench</li>
+        <li>ElectricTailoringBench</li>
+      </recipeUsers>
+      <workSkill>Crafting</workSkill>
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <unfinishedThingDef>UnfinishedApparel</unfinishedThingDef>
+      <effectWorking>Tailor</effectWorking>
+      <soundWorking>Recipe_Tailor</soundWorking>
+      <displayPriority>1000</displayPriority>
+    </recipeMaker>
+    <comps>
+      <li>
+        <compClass>CompQuality</compClass>
+      </li>
+      <li Class="CompProperties_Styleable" />
+    </comps>
+  </ThingDef>
+</Defs>

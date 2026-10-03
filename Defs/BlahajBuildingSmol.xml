@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BuildingBase">
+    <defName>OMW_BlahajPlushSmall</defName>
+    <label>Blåhaj plush decoration</label>
+    <description>A small Blåhaj plush to brighten a room.</description>
+    <thingClass>Building</thingClass>
+    <category>Building</category>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <graphicData>
+      <texPath>Things/Item/OMW_Blahaj_Plush</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <size>(1,1)</size>
+    <rotatable>true</rotatable>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.2</fillPercent>
+    <altitudeLayer>Building</altitudeLayer>
+    <designationCategory>Furniture</designationCategory>
+    <thingCategories>
+      <li>BuildingsFurniture</li>
+    </thingCategories>
+    <costStuffCount>25</costStuffCount>
+    <stuffCategories>
+      <li>Fabric</li>
+      <li>Leathery</li>
+    </stuffCategories>
+    <statBases>
+      <WorkToBuild>1200</WorkToBuild>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Mass>1</Mass>
+      <Beauty>10</Beauty>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <building>
+      <isSittable>false</isSittable>
+    </building>
+    <recipeMaker>
+      <researchPrerequisite>ComplexClothing</researchPrerequisite>
+      <recipeUsers>
+        <li>HandTailoringBench</li>
+        <li>ElectricTailoringBench</li>
+      </recipeUsers>
+      <workSkill>Crafting</workSkill>
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <soundWorking>Recipe_Tailor</soundWorking>
+      <effectWorking>Tailor</effectWorking>
+    </recipeMaker>
+  </ThingDef>
+</Defs>
