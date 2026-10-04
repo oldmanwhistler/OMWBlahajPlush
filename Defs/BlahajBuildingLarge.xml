@@ -30,7 +30,7 @@
       <WorkToBuild>2400</WorkToBuild>
       <MaxHitPoints>120</MaxHitPoints>
       <Mass>3</Mass>
-      <Beauty>20</Beauty>
+      <Beauty>30</Beauty>
       <Flammability>1.0</Flammability>
     </statBases>
     <building>
