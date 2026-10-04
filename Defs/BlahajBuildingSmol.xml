@@ -8,8 +8,8 @@
     <category>Building</category>
     <minifiedDef>MinifiedThing</minifiedDef>
     <graphicData>
-      <texPath>Things/Item/OMW_Blahaj_Plush</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Things/Item/1x1/OMW_Blahaj</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
       <drawSize>(1,1)</drawSize>
     </graphicData>
     <size>(1,1)</size>

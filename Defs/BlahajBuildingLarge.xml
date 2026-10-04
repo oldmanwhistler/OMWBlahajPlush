@@ -8,11 +8,11 @@
     <category>Building</category>
     <minifiedDef>MinifiedThing</minifiedDef>
     <graphicData>
-      <texPath>Things/Item/OMW_Blahaj_Plush</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
-      <drawSize>(3,1)</drawSize>
+      <texPath>Things/Item/1x3/OMW_Blahaj</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(1,3)</drawSize>
     </graphicData>
-    <size>(3,1)</size>
+    <size>(1,3)</size>
     <rotatable>true</rotatable>
     <passability>PassThroughOnly</passability>
     <fillPercent>0.2</fillPercent>
@@ -34,7 +34,7 @@
       <Flammability>1.0</Flammability>
     </statBases>
     <building>
-      <isSittable>false</isSittable>
+      <isSittable>true</isSittable>
     </building>
     <recipeMaker>
       <researchPrerequisite>ComplexClothing</researchPrerequisite>

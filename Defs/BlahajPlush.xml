@@ -5,7 +5,7 @@
     <label>Blåhaj plush</label>
     <description>A soft shark plush that offers comfort and helps its wearer learn.</description>
     <graphicData>
-      <texPath>Things/Item/OMW_Blahaj_Plush</texPath>
+      <texPath>Things/Item/Plush/OMW_Blahaj_Plush</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <uiIconScale>1.5</uiIconScale>
