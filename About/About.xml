@@ -3,7 +3,53 @@
   <name>[OMW] Blahaj Plush</name>
   <packageId>oldmanwhistler.BlahajPlush</packageId>
   <author>oldmanwhistler</author>
-  <description>Adds an equipable Blåhaj plush and two decorative furnishings to RimWorld.</description>
+  <description>[h1][OMW] Blahaj Plush[/h1]
+
+Plush and furniture of the Ikea Blahaj. XML only.
+
+[img]https://raw.githubusercontent.com/oldmanwhistler/OMWBlahajPlush/refs/heads/main/Docs/Images/blahaj_plush_splash.png[/img]
+
+I had a texture for an Ikea Blahaj for another mod I was working on an someone on discord mentioned they'd love a plush.
+
+[h2]Mod Contents[/h2]
+[list]
+[*] Utility slot plush that gives +0.05 comfort and +10% learning
+[*] 1x1 buildable furniture decoration
+[*] 1x3 buildable furniture decoration
+[*] Plush and buildings will be tinted based on the material used so use white material to match the Ikea colours.
+[/list]
+[h2]In Game shots[/h2]
+
+[img]https://raw.githubusercontent.com/oldmanwhistler/OMWBlahajPlush/refs/heads/main/Docs/Images/blahaj_ingame1.png[/img]
+
+[img]https://raw.githubusercontent.com/oldmanwhistler/OMWBlahajPlush/refs/heads/main/Docs/Images/blahaj_ingame2.png[/img]
+
+[img]https://raw.githubusercontent.com/oldmanwhistler/OMWBlahajPlush/refs/heads/main/Docs/Images/blahaj_ingame3.png[/img]
+
+[h2]Recommendations[/h2]
+
+If you're looking for mods that add plushies then here are some suggestions.
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3551581392]3 sizes BLAHAJ Plushies[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2972704114]Thrumbo Plushie[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2463358089]Erin's Decoration[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2755025925]Akeron - Decorations[/url]
+
+[h2]AI[/h2]
+
+[url=https://github.com/oldmanwhistler/OMWBlahajPlush/blob/main/Docs/AI.md]AI Disclosure[/url]
+
+[h2]GitHub[/h2]
+
+[url=https://github.com/oldmanwhistler/OMWBlahajPlush]GitHub[/url]
+
+[h2]License[/h2]
+
+This project is licensed under the MIT License - see the [url=https://github.com/oldmanwhistler/OMWBlahajPlush/blob/main/LICENSE]LICENSE[/url] for details.
+</description>
   <supportedVersions>
     <li>1.6</li>
   </supportedVersions>
