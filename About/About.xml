@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+  <name>[OMW] Blahaj Plush</name>
+  <packageId>oldmanwhistler.BlahajPlush</packageId>
+  <author>oldmanwhistler</author>
+  <description>Adds an equipable Blåhaj plush and two decorative furnishings to RimWorld.</description>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+</ModMetaData>
