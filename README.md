@@ -43,7 +43,7 @@ If you're looking for more mods that add plushies then here are some suggestions
 
 ## Links
 
-- [Changelog]()
+- [Changelog](https://github.com/oldmanwhistler/OMWBlahajPlush/blob/main/CHANGELOG.md)
 - [GitHub](https://github.com/oldmanwhistler/OMWBlahajPlush)
 - [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3813060927)
 - [AI Disclosure](https://github.com/oldmanwhistler/OMWBlahajPlush/blob/main/Docs/AI.md)
