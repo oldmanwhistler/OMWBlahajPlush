@@ -3,7 +3,7 @@
   <ThingDef ParentName="SculptureBase">
     <defName>OMW_BlahajStatue</defName>
     <thingClass>Building_Art</thingClass>
-    <label>Blåhaj statue</label>
+    <label>Blåhaj shark statue</label>
     <description>A stone-carved statue of a beloved shark.</description>
     <graphicData>
       <texPath>Things/Building/Art/OMW_BlahajStatue</texPath>

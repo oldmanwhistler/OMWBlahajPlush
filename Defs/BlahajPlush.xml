@@ -2,7 +2,7 @@
 <Defs>
   <ThingDef ParentName="ApparelBase">
     <defName>OMW_BlahajPlushApparel</defName>
-    <label>Blåhaj plush</label>
+    <label>Blåhaj plush shark</label>
     <description>A soft shark plush that offers comfort and helps its wearer learn.</description>
     <graphicData>
       <texPath>Things/Item/Plush/OMW_Blahaj_Plush</texPath>

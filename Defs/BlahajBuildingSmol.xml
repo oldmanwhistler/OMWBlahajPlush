@@ -2,8 +2,8 @@
 <Defs>
   <ThingDef ParentName="BuildingBase">
     <defName>OMW_BlahajPlushSmall</defName>
-    <label>Blåhaj plush decoration</label>
-    <description>A small Blåhaj plush to brighten a room.</description>
+    <label>Blåhaj plush shark decoration</label>
+    <description>A small Blåhaj plush shark to brighten a room.</description>
     <thingClass>Building</thingClass>
     <category>Building</category>
     <minifiedDef>MinifiedThing</minifiedDef>
