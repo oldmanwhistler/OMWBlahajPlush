@@ -27,6 +27,9 @@
       <LearningRateFactor>0.10</LearningRateFactor>
       <Comfort>0.05</Comfort>
     </equippedStatOffsets>
+    <thingCategories>
+      <li>ApparelUtility</li>
+    </thingCategories>
     <apparel>
       <wornGraphicPath></wornGraphicPath>
       <layers>
