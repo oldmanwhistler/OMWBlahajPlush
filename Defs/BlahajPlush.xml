@@ -38,9 +38,6 @@
       <bodyPartGroups>
         <li>Torso</li>
       </bodyPartGroups>
-      <tags>
-        <li>IndustrialBasic</li>
-      </tags>
     </apparel>
     <recipeMaker>
       <researchPrerequisite>ComplexClothing</researchPrerequisite>

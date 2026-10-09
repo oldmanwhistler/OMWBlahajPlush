@@ -6,7 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.1.0] - 2026-10-08
 
 - The plush utility belt wasn't storable because it was missing category.
-- String replacement: Blåhaj plush -> Blåhaj plush shark
+- Removed the `IndustrialBasic` tag so it doesn't generate in new pawns / raids as often.
+- String replacement: `Blåhaj plush` -> `Blåhaj plush shark`
   - because the å is hard to search for
 - Blahaj statue!
 
